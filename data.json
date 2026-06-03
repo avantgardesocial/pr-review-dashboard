@@ -1,6 +1,16 @@
 {
   "reviews": {
-    "rootulp": [],
+    "rootulp": [
+      {
+        "number": 7349,
+        "title": "fix: disable privval gRPC server in non-fibre builds",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7349",
+        "repo": "celestia-app",
+        "author": "rach-id",
+        "reviewer": "rootulp",
+        "requestedAt": "2026-06-03T18:23:24Z"
+      }
+    ],
     "ninabarbakadze": [
       {
         "number": 7221,
@@ -10,6 +20,15 @@
         "author": "walldiss",
         "reviewer": "ninabarbakadze",
         "requestedAt": "2026-05-28T16:54:56Z"
+      },
+      {
+        "number": 7349,
+        "title": "fix: disable privval gRPC server in non-fibre builds",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7349",
+        "repo": "celestia-app",
+        "author": "rach-id",
+        "reviewer": "ninabarbakadze",
+        "requestedAt": "2026-06-03T18:22:45Z"
       },
       {
         "number": 3086,
@@ -130,15 +149,6 @@
         "author": "dependabot",
         "reviewer": "mcrakhman",
         "requestedAt": "2026-04-20T12:34:13Z"
-      },
-      {
-        "number": 264,
-        "title": "chore(deps): bump celestiaorg/.github from 0.6.4 to 0.6.5",
-        "url": "https://github.com/celestiaorg/go-square/pull/264",
-        "repo": "go-square",
-        "author": "dependabot",
-        "reviewer": "mcrakhman",
-        "requestedAt": "2026-06-03T05:09:49Z"
       },
       {
         "number": 884,
@@ -269,15 +279,6 @@
         "author": "dependabot",
         "reviewer": "evan-forbes",
         "requestedAt": "2026-06-02T04:42:33Z"
-      },
-      {
-        "number": 7346,
-        "title": "fix: reduce race skip list",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7346",
-        "repo": "celestia-app",
-        "author": "chatton",
-        "reviewer": "evan-forbes",
-        "requestedAt": "2026-06-02T14:23:02Z"
       },
       {
         "number": 3088,
@@ -439,5 +440,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-06-03T15:03:14.782Z"
+  "fetchedAt": "2026-06-03T18:54:34.790Z"
 }
