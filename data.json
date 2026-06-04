@@ -12,15 +12,6 @@
         "requestedAt": "2026-05-28T16:54:56Z"
       },
       {
-        "number": 7351,
-        "title": "fix: deflake TestTimeInPrepareProposalContext",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7351",
-        "repo": "celestia-app",
-        "author": "rootulp",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-06-04T04:34:30Z"
-      },
-      {
         "number": 3086,
         "title": "build(deps): Bump github.com/aws/aws-sdk-go-v2/credentials from 1.19.17 to 1.19.19",
         "url": "https://github.com/celestiaorg/celestia-core/pull/3086",
@@ -215,15 +206,6 @@
         "requestedAt": "2026-06-02T04:44:00Z"
       },
       {
-        "number": 7344,
-        "title": "fix: replace MustGetFreePort with deterministic port allocation",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7344",
-        "repo": "celestia-app",
-        "author": "chatton",
-        "reviewer": "vgonkivs",
-        "requestedAt": "2026-06-02T11:39:00Z"
-      },
-      {
         "number": 3090,
         "title": "build(deps): Bump github.com/grafana/otel-profiling-go from 0.5.1 to 0.5.3",
         "url": "https://github.com/celestiaorg/celestia-core/pull/3090",
@@ -345,15 +327,6 @@
     ],
     "walldiss": [
       {
-        "number": 7320,
-        "title": "refactor(fibre)!: cleanup fibre proto",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7320",
-        "repo": "celestia-app",
-        "author": "Wondertan",
-        "reviewer": "walldiss",
-        "requestedAt": "2026-06-04T00:53:13Z"
-      },
-      {
         "number": 4617,
         "title": "feat(api/client): add support for multiple endpoints with failover",
         "url": "https://github.com/celestiaorg/celestia-node/pull/4617",
@@ -466,5 +439,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-06-04T06:52:07.604Z"
+  "fetchedAt": "2026-06-04T10:31:08.858Z"
 }
