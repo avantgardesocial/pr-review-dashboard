@@ -271,6 +271,15 @@
         "requestedAt": "2026-06-02T04:42:33Z"
       },
       {
+        "number": 7347,
+        "title": "feat(fibre): query the state when validator's host errors",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7347",
+        "repo": "celestia-app",
+        "author": "rach-id",
+        "reviewer": "evan-forbes",
+        "requestedAt": "2026-06-04T12:35:19Z"
+      },
+      {
         "number": 3088,
         "title": "build(deps): Bump github.com/aws/aws-sdk-go-v2 from 1.41.7 to 1.41.9",
         "url": "https://github.com/celestiaorg/celestia-core/pull/3088",
@@ -327,6 +336,15 @@
     ],
     "walldiss": [
       {
+        "number": 7347,
+        "title": "feat(fibre): query the state when validator's host errors",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7347",
+        "repo": "celestia-app",
+        "author": "rach-id",
+        "reviewer": "walldiss",
+        "requestedAt": "2026-06-04T12:35:22Z"
+      },
+      {
         "number": 4617,
         "title": "feat(api/client): add support for multiple endpoints with failover",
         "url": "https://github.com/celestiaorg/celestia-node/pull/4617",
@@ -352,15 +370,6 @@
         "author": "vgonkivs",
         "reviewer": "walldiss",
         "requestedAt": "2026-05-26T09:58:48Z"
-      },
-      {
-        "number": 5033,
-        "title": "fix(shrex/server): raise per-peer service-scope limits for shrex server",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/5033",
-        "repo": "celestia-node",
-        "author": "vgonkivs",
-        "reviewer": "walldiss",
-        "requestedAt": "2026-06-02T21:51:45Z"
       }
     ],
     "Wondertan": [
@@ -439,5 +448,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-06-04T10:31:08.858Z"
+  "fetchedAt": "2026-06-04T13:43:08.581Z"
 }
