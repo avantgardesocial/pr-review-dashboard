@@ -10,18 +10,19 @@
         "author": "walldiss",
         "reviewer": "ninabarbakadze",
         "requestedAt": "2026-05-28T16:54:56Z"
-      },
-      {
-        "number": 412,
-        "title": "docs: fix incorrect comment on dataSquare",
-        "url": "https://github.com/celestiaorg/rsmt2d/pull/412",
-        "repo": "rsmt2d",
-        "author": "rootulp",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-06-01T18:14:48Z"
       }
     ],
-    "rach-id": [],
+    "rach-id": [
+      {
+        "number": 3099,
+        "title": "refactor(blocksync): verify last commit before persisting the block (backport #3098)",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3099",
+        "repo": "celestia-core",
+        "author": "mergify",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-06-05T12:33:37Z"
+      }
+    ],
     "mcrakhman": [
       {
         "number": 7221,
@@ -145,6 +146,15 @@
         "requestedAt": "2026-06-04T12:35:19Z"
       },
       {
+        "number": 3099,
+        "title": "refactor(blocksync): verify last commit before persisting the block (backport #3098)",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3099",
+        "repo": "celestia-core",
+        "author": "mergify",
+        "reviewer": "evan-forbes",
+        "requestedAt": "2026-06-05T10:26:27Z"
+      },
+      {
         "number": 5015,
         "title": "chore(deps): bump golang.org/x/crypto from 0.50.0 to 0.52.0",
         "url": "https://github.com/celestiaorg/celestia-node/pull/5015",
@@ -239,6 +249,15 @@
         "requestedAt": "2026-05-28T17:36:41Z"
       },
       {
+        "number": 7347,
+        "title": "feat(fibre): query the state when validator's host errors",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7347",
+        "repo": "celestia-app",
+        "author": "rach-id",
+        "reviewer": "Wondertan",
+        "requestedAt": "2026-06-05T12:50:42Z"
+      },
+      {
         "number": 4617,
         "title": "feat(api/client): add support for multiple endpoints with failover",
         "url": "https://github.com/celestiaorg/celestia-node/pull/4617",
@@ -304,5 +323,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-06-05T10:12:04.046Z"
+  "fetchedAt": "2026-06-05T12:50:53.200Z"
 }
