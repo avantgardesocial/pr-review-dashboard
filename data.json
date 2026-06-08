@@ -112,6 +112,15 @@
         "author": "proofmancer",
         "reviewer": "mcrakhman",
         "requestedAt": "2026-05-23T18:11:54Z"
+      },
+      {
+        "number": 416,
+        "title": "chore(deps): Bump codecov/codecov-action from 6.0.1 to 7.0.0",
+        "url": "https://github.com/celestiaorg/rsmt2d/pull/416",
+        "repo": "rsmt2d",
+        "author": "dependabot",
+        "reviewer": "mcrakhman",
+        "requestedAt": "2026-06-08T15:52:48Z"
       }
     ],
     "vgonkivs": [
@@ -123,6 +132,15 @@
         "author": "dependabot",
         "reviewer": "vgonkivs",
         "requestedAt": "2026-06-08T09:44:37Z"
+      },
+      {
+        "number": 7375,
+        "title": "docs: add instruction when there is an app-hash mismatch",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7375",
+        "repo": "celestia-app",
+        "author": "rach-id",
+        "reviewer": "vgonkivs",
+        "requestedAt": "2026-06-08T17:42:50Z"
       },
       {
         "number": 3105,
@@ -278,6 +296,15 @@
         "author": "solunolab",
         "reviewer": "evan-forbes",
         "requestedAt": "2026-06-07T06:58:14Z"
+      },
+      {
+        "number": 415,
+        "title": "chore(deps): Bump golang.org/x/sync from 0.20.0 to 0.21.0",
+        "url": "https://github.com/celestiaorg/rsmt2d/pull/415",
+        "repo": "rsmt2d",
+        "author": "dependabot",
+        "reviewer": "evan-forbes",
+        "requestedAt": "2026-06-08T15:52:36Z"
       }
     ],
     "walldiss": [
@@ -385,5 +412,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-06-08T14:59:18.069Z"
+  "fetchedAt": "2026-06-08T17:57:31.169Z"
 }
