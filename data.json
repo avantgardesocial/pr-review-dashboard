@@ -1,7 +1,17 @@
 {
   "reviews": {
     "rootulp": [],
-    "ninabarbakadze": [],
+    "ninabarbakadze": [
+      {
+        "number": 7388,
+        "title": "fix: mocha sync, os race condition, add retries to TestRun",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7388",
+        "repo": "celestia-app",
+        "author": "chatton",
+        "reviewer": "ninabarbakadze",
+        "requestedAt": "2026-06-10T08:30:21Z"
+      }
+    ],
     "rach-id": [
       {
         "number": 7191,
@@ -85,6 +95,15 @@
         "author": "dependabot",
         "reviewer": "mcrakhman",
         "requestedAt": "2026-06-08T11:04:01Z"
+      },
+      {
+        "number": 5049,
+        "title": "feat(core): multi-source block ingestion for the bridge listener (#5018)",
+        "url": "https://github.com/celestiaorg/celestia-node/pull/5049",
+        "repo": "celestia-node",
+        "author": "vgonkivs",
+        "reviewer": "mcrakhman",
+        "requestedAt": "2026-06-10T09:31:00Z"
       },
       {
         "number": 145,
@@ -385,5 +404,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-06-10T06:09:45.990Z"
+  "fetchedAt": "2026-06-10T10:22:06.162Z"
 }
