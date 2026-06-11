@@ -12,6 +12,15 @@
         "requestedAt": "2026-06-10T08:30:21Z"
       },
       {
+        "number": 7389,
+        "title": "fix: skip racy txsim CLI tests in test-race nightly job",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7389",
+        "repo": "celestia-app",
+        "author": "rootulp",
+        "reviewer": "ninabarbakadze",
+        "requestedAt": "2026-06-11T03:03:32Z"
+      },
+      {
         "number": 3110,
         "title": "refactor(p2p): reduce ERR log noise from routine peer churn",
         "url": "https://github.com/celestiaorg/celestia-core/pull/3110",
@@ -48,33 +57,6 @@
         "author": "walldiss",
         "reviewer": "rach-id",
         "requestedAt": "2026-06-09T18:56:51Z"
-      },
-      {
-        "number": 3110,
-        "title": "refactor(p2p): reduce ERR log noise from routine peer churn",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3110",
-        "repo": "celestia-core",
-        "author": "rootulp",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-06-09T13:15:57Z"
-      },
-      {
-        "number": 3111,
-        "title": "refactor(consensus): split \"failed to process message\" log by error type",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3111",
-        "repo": "celestia-core",
-        "author": "rootulp",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-06-10T14:32:57Z"
-      },
-      {
-        "number": 3113,
-        "title": "feat: add on wire proto check for signature count",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3113",
-        "repo": "celestia-core",
-        "author": "ninabarbakadze",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-06-10T10:40:17Z"
       }
     ],
     "mcrakhman": [
@@ -290,6 +272,15 @@
         "requestedAt": "2026-06-08T09:46:09Z"
       },
       {
+        "number": 7390,
+        "title": "fix: relax TestTxSubmission success-rate threshold to de-flake nightly",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7390",
+        "repo": "celestia-app",
+        "author": "rootulp",
+        "reviewer": "evan-forbes",
+        "requestedAt": "2026-06-11T03:06:46Z"
+      },
+      {
         "number": 5015,
         "title": "chore(deps): bump golang.org/x/crypto from 0.50.0 to 0.52.0",
         "url": "https://github.com/celestiaorg/celestia-node/pull/5015",
@@ -431,5 +422,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-06-11T01:40:07.334Z"
+  "fetchedAt": "2026-06-11T06:24:42.893Z"
 }
