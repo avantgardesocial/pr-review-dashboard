@@ -67,44 +67,7 @@
         "requestedAt": "2026-06-12T03:28:27Z"
       }
     ],
-    "rach-id": [
-      {
-        "number": 7381,
-        "title": "ci: retry go-mod-tidy-check to tolerate transient download failures",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7381",
-        "repo": "celestia-app",
-        "author": "rootulp",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-06-11T20:44:21Z"
-      },
-      {
-        "number": 7399,
-        "title": "fix: bump celestiaorg/cosmos-sdk to v0.52.7",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7399",
-        "repo": "celestia-app",
-        "author": "rootulp",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-06-11T19:35:28Z"
-      },
-      {
-        "number": 3111,
-        "title": "refactor(consensus): remove \"failed to process message\" catch-all and log errors in place",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3111",
-        "repo": "celestia-core",
-        "author": "rootulp",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-06-12T02:59:19Z"
-      },
-      {
-        "number": 268,
-        "title": "test: pin share prefix layout",
-        "url": "https://github.com/celestiaorg/go-square/pull/268",
-        "repo": "go-square",
-        "author": "rootulp",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-06-11T19:15:11Z"
-      }
-    ],
+    "rach-id": [],
     "mcrakhman": [
       {
         "number": 884,
@@ -134,15 +97,6 @@
         "author": "dependabot",
         "reviewer": "vgonkivs",
         "requestedAt": "2026-06-02T08:20:36Z"
-      },
-      {
-        "number": 5046,
-        "title": "chore(deps): bump the patch-updates group across 2 directories with 1 update",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/5046",
-        "repo": "celestia-node",
-        "author": "dependabot",
-        "reviewer": "vgonkivs",
-        "requestedAt": "2026-06-08T11:06:21Z"
       }
     ],
     "evan-forbes": [
@@ -324,5 +278,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-06-12T03:35:44.408Z"
+  "fetchedAt": "2026-06-12T08:11:14.442Z"
 }
