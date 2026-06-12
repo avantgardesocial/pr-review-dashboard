@@ -43,15 +43,6 @@
     "rach-id": [],
     "mcrakhman": [
       {
-        "number": 5051,
-        "title": "fix(metrics): enable metrics in daser for bridge nodes (#5050)",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/5051",
-        "repo": "celestia-node",
-        "author": "vgonkivs",
-        "reviewer": "mcrakhman",
-        "requestedAt": "2026-06-12T08:58:28Z"
-      },
-      {
         "number": 884,
         "title": "feat(node)!: switch sample and row requests to shrex",
         "url": "https://github.com/celestiaorg/lumina/pull/884",
@@ -70,15 +61,6 @@
         "author": "DeVikingMark",
         "reviewer": "vgonkivs",
         "requestedAt": "2025-10-07T18:59:09Z"
-      },
-      {
-        "number": 5027,
-        "title": "chore(deps): bump go.opentelemetry.io/otel/exporters/otlp/otlpmetric/otlpmetrichttp from 1.43.0 to 1.44.0",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/5027",
-        "repo": "celestia-node",
-        "author": "dependabot",
-        "reviewer": "vgonkivs",
-        "requestedAt": "2026-06-02T08:20:36Z"
       }
     ],
     "evan-forbes": [
@@ -111,30 +93,12 @@
       },
       {
         "number": 5015,
-        "title": "chore(deps): bump golang.org/x/crypto from 0.50.0 to 0.53.0",
+        "title": "chore(deps): bump golang.org/x/crypto from 0.51.0 to 0.53.0",
         "url": "https://github.com/celestiaorg/celestia-node/pull/5015",
         "repo": "celestia-node",
         "author": "dependabot",
         "reviewer": "evan-forbes",
         "requestedAt": "2026-05-25T16:50:16Z"
-      },
-      {
-        "number": 5025,
-        "title": "chore(deps): bump go.opentelemetry.io/otel/exporters/otlp/otlptrace from 1.43.0 to 1.44.0",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/5025",
-        "repo": "celestia-node",
-        "author": "dependabot",
-        "reviewer": "evan-forbes",
-        "requestedAt": "2026-06-02T08:20:24Z"
-      },
-      {
-        "number": 5030,
-        "title": "chore(deps): bump go.opentelemetry.io/otel/exporters/otlp/otlptrace/otlptracehttp from 1.43.0 to 1.44.0",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/5030",
-        "repo": "celestia-node",
-        "author": "dependabot",
-        "reviewer": "evan-forbes",
-        "requestedAt": "2026-06-02T08:20:59Z"
       },
       {
         "number": 266,
@@ -242,5 +206,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-06-12T11:51:37.018Z"
+  "fetchedAt": "2026-06-12T14:25:49.441Z"
 }
