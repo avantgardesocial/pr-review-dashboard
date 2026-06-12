@@ -39,7 +39,17 @@
         "requestedAt": "2026-06-12T16:15:13Z"
       }
     ],
-    "rach-id": [],
+    "rach-id": [
+      {
+        "number": 437,
+        "title": "chore: Bump esbuild and tsx",
+        "url": "https://github.com/celestiaorg/blobstream-contracts/pull/437",
+        "repo": "blobstream-contracts",
+        "author": "dependabot",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-06-12T20:23:31Z"
+      }
+    ],
     "mcrakhman": [
       {
         "number": 884,
@@ -214,5 +224,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-06-12T19:25:31.712Z"
+  "fetchedAt": "2026-06-12T21:11:17.253Z"
 }
