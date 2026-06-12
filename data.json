@@ -13,15 +13,6 @@
     ],
     "ninabarbakadze": [
       {
-        "number": 7381,
-        "title": "ci: retry go-mod-tidy-check to tolerate transient download failures",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7381",
-        "repo": "celestia-app",
-        "author": "rootulp",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-06-11T20:44:21Z"
-      },
-      {
         "number": 7398,
         "title": "fix: harden TxCache.getBlobsHash against blob hash collisions",
         "url": "https://github.com/celestiaorg/celestia-app/pull/7398",
@@ -29,15 +20,6 @@
         "author": "rootulp",
         "reviewer": "ninabarbakadze",
         "requestedAt": "2026-06-11T19:09:50Z"
-      },
-      {
-        "number": 7400,
-        "title": "ci: notify #protocol-ci Slack channel on CI failures",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7400",
-        "repo": "celestia-app",
-        "author": "rootulp",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-06-11T20:12:17Z"
       },
       {
         "number": 3110,
@@ -56,19 +38,19 @@
         "author": "rootulp",
         "reviewer": "ninabarbakadze",
         "requestedAt": "2026-06-10T14:32:53Z"
-      },
-      {
-        "number": 3116,
-        "title": "test(consensus): stabilize oversized block vote wait",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3116",
-        "repo": "celestia-core",
-        "author": "rootulp",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-06-12T03:28:27Z"
       }
     ],
     "rach-id": [],
     "mcrakhman": [
+      {
+        "number": 5051,
+        "title": "fix(metrics): enable metrics in daser for bridge nodes (#5050)",
+        "url": "https://github.com/celestiaorg/celestia-node/pull/5051",
+        "repo": "celestia-node",
+        "author": "vgonkivs",
+        "reviewer": "mcrakhman",
+        "requestedAt": "2026-06-12T08:58:28Z"
+      },
       {
         "number": 884,
         "title": "feat(node)!: switch sample and row requests to shrex",
@@ -108,24 +90,6 @@
         "author": "rach-id",
         "reviewer": "evan-forbes",
         "requestedAt": "2026-06-04T12:35:19Z"
-      },
-      {
-        "number": 7362,
-        "title": "chore(deps): bump codecov/codecov-action from 6.0.1 to 7.0.0",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7362",
-        "repo": "celestia-app",
-        "author": "dependabot",
-        "reviewer": "evan-forbes",
-        "requestedAt": "2026-06-08T09:44:30Z"
-      },
-      {
-        "number": 7367,
-        "title": "chore(deps): bump google.golang.org/api from 0.279.0 to 0.284.0",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7367",
-        "repo": "celestia-app",
-        "author": "dependabot",
-        "reviewer": "evan-forbes",
-        "requestedAt": "2026-06-08T09:46:09Z"
       },
       {
         "number": 7390,
@@ -278,5 +242,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-06-12T08:11:14.442Z"
+  "fetchedAt": "2026-06-12T11:51:37.018Z"
 }
