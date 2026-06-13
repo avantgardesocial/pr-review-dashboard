@@ -48,9 +48,28 @@
         "author": "dependabot",
         "reviewer": "rach-id",
         "requestedAt": "2026-06-12T20:23:31Z"
+      },
+      {
+        "number": 5053,
+        "title": "fix(swamp): fix TestArchivalBlobSync (#5017)",
+        "url": "https://github.com/celestiaorg/celestia-node/pull/5053",
+        "repo": "celestia-node",
+        "author": "neyy91",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-06-13T02:06:11Z"
       }
     ],
-    "mcrakhman": [],
+    "mcrakhman": [
+      {
+        "number": 5052,
+        "title": "nodebuilder/header: Validate range bounds and export ErrRangeTooLarge in GetRangeByHeight",
+        "url": "https://github.com/celestiaorg/celestia-node/pull/5052",
+        "repo": "celestia-node",
+        "author": "neyy91",
+        "reviewer": "mcrakhman",
+        "requestedAt": "2026-06-13T01:01:21Z"
+      }
+    ],
     "vgonkivs": [
       {
         "number": 4617,
@@ -223,5 +242,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-06-13T00:07:17.293Z"
+  "fetchedAt": "2026-06-13T04:46:22.331Z"
 }
