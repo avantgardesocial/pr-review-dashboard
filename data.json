@@ -12,6 +12,24 @@
         "requestedAt": "2026-06-11T19:09:50Z"
       },
       {
+        "number": 7411,
+        "title": "chore(deps): bump golang.org/x/term from 0.43.0 to 0.44.0",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7411",
+        "repo": "celestia-app",
+        "author": "dependabot",
+        "reviewer": "ninabarbakadze",
+        "requestedAt": "2026-06-15T09:44:00Z"
+      },
+      {
+        "number": 7416,
+        "title": "chore(deps): bump github.com/aws/aws-sdk-go-v2 from 1.41.12 to 1.42.0",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7416",
+        "repo": "celestia-app",
+        "author": "dependabot",
+        "reviewer": "ninabarbakadze",
+        "requestedAt": "2026-06-15T09:46:51Z"
+      },
+      {
         "number": 3110,
         "title": "refactor(p2p): reduce ERR log noise from routine peer churn",
         "url": "https://github.com/celestiaorg/celestia-core/pull/3110",
@@ -28,6 +46,15 @@
         "author": "rootulp",
         "reviewer": "ninabarbakadze",
         "requestedAt": "2026-06-10T14:32:53Z"
+      },
+      {
+        "number": 3122,
+        "title": "build(deps): Bump github.com/aws/aws-sdk-go-v2/config from 1.32.23 to 1.32.25",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3122",
+        "repo": "celestia-core",
+        "author": "dependabot",
+        "reviewer": "ninabarbakadze",
+        "requestedAt": "2026-06-15T09:37:08Z"
       },
       {
         "number": 5055,
@@ -48,8 +75,63 @@
         "requestedAt": "2026-06-12T16:15:13Z"
       }
     ],
-    "rach-id": [],
+    "rach-id": [
+      {
+        "number": 7412,
+        "title": "chore(deps): bump github.com/digitalocean/godo from 1.194.1 to 1.195.0",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7412",
+        "repo": "celestia-app",
+        "author": "dependabot",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-06-15T09:44:05Z"
+      },
+      {
+        "number": 7417,
+        "title": "chore(deps): bump github.com/aws/aws-sdk-go-v2/feature/s3/transfermanager from 0.2.8 to 0.2.10",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7417",
+        "repo": "celestia-app",
+        "author": "dependabot",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-06-15T09:48:11Z"
+      },
+      {
+        "number": 3123,
+        "title": "build(deps): Bump github.com/aws/aws-sdk-go-v2 from 1.41.12 to 1.42.0",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3123",
+        "repo": "celestia-core",
+        "author": "dependabot",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-06-15T09:38:23Z"
+      }
+    ],
     "mcrakhman": [
+      {
+        "number": 7415,
+        "title": "chore(deps): bump github.com/aws/aws-sdk-go-v2/config from 1.32.23 to 1.32.25",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7415",
+        "repo": "celestia-app",
+        "author": "dependabot",
+        "reviewer": "mcrakhman",
+        "requestedAt": "2026-06-15T09:45:33Z"
+      },
+      {
+        "number": 3121,
+        "title": "build(deps): Bump golang.org/x/sync from 0.20.0 to 0.21.0",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3121",
+        "repo": "celestia-core",
+        "author": "dependabot",
+        "reviewer": "mcrakhman",
+        "requestedAt": "2026-06-15T09:35:50Z"
+      },
+      {
+        "number": 3126,
+        "title": "build(deps): Bump github.com/aws/aws-sdk-go-v2/credentials from 1.19.22 to 1.19.24",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3126",
+        "repo": "celestia-core",
+        "author": "dependabot",
+        "reviewer": "mcrakhman",
+        "requestedAt": "2026-06-15T09:41:00Z"
+      },
       {
         "number": 5052,
         "title": "nodebuilder/header: Validate range bounds and export ErrRangeTooLarge in GetRangeByHeight",
@@ -61,6 +143,42 @@
       }
     ],
     "vgonkivs": [
+      {
+        "number": 7414,
+        "title": "chore(deps): bump golang.org/x/crypto from 0.52.0 to 0.53.0",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7414",
+        "repo": "celestia-app",
+        "author": "dependabot",
+        "reviewer": "vgonkivs",
+        "requestedAt": "2026-06-15T09:44:13Z"
+      },
+      {
+        "number": 7419,
+        "title": "chore(deps): bump github.com/aws/aws-sdk-go-v2/service/ec2 from 1.305.2 to 1.307.0",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7419",
+        "repo": "celestia-app",
+        "author": "dependabot",
+        "reviewer": "vgonkivs",
+        "requestedAt": "2026-06-15T09:50:46Z"
+      },
+      {
+        "number": 3120,
+        "title": "build(deps): Bump golang.org/x/net from 0.55.0 to 0.56.0",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3120",
+        "repo": "celestia-core",
+        "author": "dependabot",
+        "reviewer": "vgonkivs",
+        "requestedAt": "2026-06-15T09:35:45Z"
+      },
+      {
+        "number": 3125,
+        "title": "build(deps): Bump github.com/aws/aws-sdk-go-v2/service/s3 from 1.103.2 to 1.103.3",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3125",
+        "repo": "celestia-core",
+        "author": "dependabot",
+        "reviewer": "vgonkivs",
+        "requestedAt": "2026-06-15T09:39:45Z"
+      },
       {
         "number": 4617,
         "title": "feat(api/client): add support for multiple endpoints with failover",
@@ -118,6 +236,24 @@
         "requestedAt": "2026-06-11T19:09:50Z"
       },
       {
+        "number": 7413,
+        "title": "chore(deps): bump golang.org/x/sys from 0.45.0 to 0.46.0",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7413",
+        "repo": "celestia-app",
+        "author": "dependabot",
+        "reviewer": "evan-forbes",
+        "requestedAt": "2026-06-15T09:44:08Z"
+      },
+      {
+        "number": 7418,
+        "title": "chore(deps): bump github.com/aws/aws-sdk-go-v2/service/s3 from 1.103.2 to 1.103.3",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7418",
+        "repo": "celestia-app",
+        "author": "dependabot",
+        "reviewer": "evan-forbes",
+        "requestedAt": "2026-06-15T09:49:29Z"
+      },
+      {
         "number": 3119,
         "title": "feat: add on wire proto check for signature count (backport #3113)",
         "url": "https://github.com/celestiaorg/celestia-core/pull/3119",
@@ -125,6 +261,15 @@
         "author": "mergify",
         "reviewer": "evan-forbes",
         "requestedAt": "2026-06-12T15:23:32Z"
+      },
+      {
+        "number": 3124,
+        "title": "build(deps): Bump golang.org/x/crypto from 0.52.0 to 0.53.0",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3124",
+        "repo": "celestia-core",
+        "author": "dependabot",
+        "reviewer": "evan-forbes",
+        "requestedAt": "2026-06-15T09:38:27Z"
       },
       {
         "number": 5015,
@@ -143,6 +288,15 @@
         "author": "neyy91",
         "reviewer": "evan-forbes",
         "requestedAt": "2026-06-13T11:27:41Z"
+      },
+      {
+        "number": 5060,
+        "title": "test(libs/utils): fix data race on maxActive in TestSessions_Concurre…",
+        "url": "https://github.com/celestiaorg/celestia-node/pull/5060",
+        "repo": "celestia-node",
+        "author": "neyy91",
+        "reviewer": "evan-forbes",
+        "requestedAt": "2026-06-15T09:32:34Z"
       },
       {
         "number": 266,
@@ -250,5 +404,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-06-15T03:54:03.087Z"
+  "fetchedAt": "2026-06-15T09:50:48.837Z"
 }
