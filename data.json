@@ -9,25 +9,16 @@
         "repo": "celestia-app",
         "author": "rootulp",
         "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-06-11T19:09:50Z"
+        "requestedAt": "2026-06-17T10:51:28Z"
       },
       {
-        "number": 5055,
-        "title": "fix(store/file): close ODS file descriptors in ValidateODSSize and Op…",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/5055",
-        "repo": "celestia-node",
-        "author": "neyy91",
+        "number": 7428,
+        "title": "fix: print trailing newline when CLI tools report errors",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7428",
+        "repo": "celestia-app",
+        "author": "rootulp",
         "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-06-13T11:13:20Z"
-      },
-      {
-        "number": 5061,
-        "title": "chore(deps): bump alpine from 3.23.4 to 3.24.0",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/5061",
-        "repo": "celestia-node",
-        "author": "dependabot",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-06-15T11:03:53Z"
+        "requestedAt": "2026-06-17T13:10:49Z"
       },
       {
         "number": 266,
@@ -39,7 +30,17 @@
         "requestedAt": "2026-06-12T16:15:13Z"
       }
     ],
-    "rach-id": [],
+    "rach-id": [
+      {
+        "number": 7426,
+        "title": "feat: cap sdk msg count in CheckTx",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7426",
+        "repo": "celestia-app",
+        "author": "ninabarbakadze",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-06-17T13:15:19Z"
+      }
+    ],
     "mcrakhman": [
       {
         "number": 7347,
@@ -58,6 +59,15 @@
         "author": "rach-id",
         "reviewer": "mcrakhman",
         "requestedAt": "2026-06-17T07:30:30Z"
+      },
+      {
+        "number": 7427,
+        "title": "fix: retry transient failures when downloading embedded binaries",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7427",
+        "repo": "celestia-app",
+        "author": "rootulp",
+        "reviewer": "mcrakhman",
+        "requestedAt": "2026-06-17T13:05:42Z"
       }
     ],
     "vgonkivs": [
@@ -205,5 +215,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-06-17T10:10:09.973Z"
+  "fetchedAt": "2026-06-17T13:58:40.977Z"
 }
