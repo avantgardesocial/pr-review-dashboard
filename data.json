@@ -48,7 +48,17 @@
         "requestedAt": "2026-06-18T21:02:52Z"
       }
     ],
-    "rach-id": [],
+    "rach-id": [
+      {
+        "number": 5077,
+        "title": "fix(shwap/bitswap): return real result from Blockstore.Has",
+        "url": "https://github.com/celestiaorg/celestia-node/pull/5077",
+        "repo": "celestia-node",
+        "author": "neyy91",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-06-21T18:58:11Z"
+      }
+    ],
     "mcrakhman": [
       {
         "number": 7424,
@@ -132,6 +142,15 @@
         "author": "neyy91",
         "reviewer": "vgonkivs",
         "requestedAt": "2026-06-21T03:18:52Z"
+      },
+      {
+        "number": 5079,
+        "title": "fix(blob): guard against nil proof in Service.Included",
+        "url": "https://github.com/celestiaorg/celestia-node/pull/5079",
+        "repo": "celestia-node",
+        "author": "neyy91",
+        "reviewer": "vgonkivs",
+        "requestedAt": "2026-06-21T19:07:00Z"
       },
       {
         "number": 420,
@@ -221,5 +240,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-06-21T17:56:41.201Z"
+  "fetchedAt": "2026-06-21T19:25:16.261Z"
 }
