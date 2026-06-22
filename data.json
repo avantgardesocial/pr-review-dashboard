@@ -12,15 +12,6 @@
         "requestedAt": "2026-06-17T10:51:28Z"
       },
       {
-        "number": 7436,
-        "title": "feat: improve the migrate-db script",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7436",
-        "repo": "celestia-app",
-        "author": "rach-id",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-06-22T06:38:08Z"
-      },
-      {
         "number": 7438,
         "title": "fix(multiplexer): exit when an embedded binary fails",
         "url": "https://github.com/celestiaorg/celestia-app/pull/7438",
@@ -30,13 +21,40 @@
         "requestedAt": "2026-06-19T23:45:24Z"
       },
       {
-        "number": 7441,
-        "title": "fix(test): remove flaky GetTx query in TestSquareSizeIntegrationTest",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7441",
+        "number": 7445,
+        "title": "chore(deps): bump github.com/aws/aws-sdk-go-v2/service/s3 from 1.103.3 to 1.104.0",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7445",
         "repo": "celestia-app",
-        "author": "rootulp",
+        "author": "dependabot",
         "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-06-21T16:13:12Z"
+        "requestedAt": "2026-06-22T10:46:07Z"
+      },
+      {
+        "number": 7449,
+        "title": "chore(deps): bump github.com/pelletier/go-toml/v2 from 2.3.1 to 2.4.0",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7449",
+        "repo": "celestia-app",
+        "author": "dependabot",
+        "reviewer": "ninabarbakadze",
+        "requestedAt": "2026-06-22T10:48:44Z"
+      },
+      {
+        "number": 5080,
+        "title": "chore(deps): bump alpine from 3.24.0 to 3.24.1 in the patch-updates group",
+        "url": "https://github.com/celestiaorg/celestia-node/pull/5080",
+        "repo": "celestia-node",
+        "author": "dependabot",
+        "reviewer": "ninabarbakadze",
+        "requestedAt": "2026-06-22T11:03:38Z"
+      },
+      {
+        "number": 5084,
+        "title": "chore(deps): bump github.com/moby/moby/client from 0.4.0 to 0.5.0 in /nodebuilder/tests/tastora",
+        "url": "https://github.com/celestiaorg/celestia-node/pull/5084",
+        "repo": "celestia-node",
+        "author": "dependabot",
+        "reviewer": "ninabarbakadze",
+        "requestedAt": "2026-06-22T11:07:18Z"
       },
       {
         "number": 266,
@@ -46,15 +64,6 @@
         "author": "rootulp",
         "reviewer": "ninabarbakadze",
         "requestedAt": "2026-06-12T16:15:13Z"
-      },
-      {
-        "number": 328,
-        "title": "chore(deps): bump actions/checkout from 6 to 7",
-        "url": "https://github.com/celestiaorg/nmt/pull/328",
-        "repo": "nmt",
-        "author": "dependabot",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-06-18T21:02:52Z"
       }
     ],
     "rach-id": [],
@@ -87,6 +96,33 @@
         "requestedAt": "2026-06-19T23:43:27Z"
       },
       {
+        "number": 7444,
+        "title": "chore(deps): bump github.com/moby/moby/client from 0.4.1 to 0.5.0 in /test/docker-e2e",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7444",
+        "repo": "celestia-app",
+        "author": "dependabot",
+        "reviewer": "mcrakhman",
+        "requestedAt": "2026-06-22T09:34:14Z"
+      },
+      {
+        "number": 7448,
+        "title": "chore(deps): bump github.com/klauspost/reedsolomon from 1.14.1-0.20260518132338-1166fa573ff0 to 1.14.1",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7448",
+        "repo": "celestia-app",
+        "author": "dependabot",
+        "reviewer": "mcrakhman",
+        "requestedAt": "2026-06-22T09:34:29Z"
+      },
+      {
+        "number": 7452,
+        "title": "chore(deps): bump github.com/aws/aws-sdk-go-v2/feature/s3/transfermanager from 0.2.10 to 0.2.11",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7452",
+        "repo": "celestia-app",
+        "author": "dependabot",
+        "reviewer": "mcrakhman",
+        "requestedAt": "2026-06-22T09:37:21Z"
+      },
+      {
         "number": 5075,
         "title": "test(share/eds): warm EDS roots before parallel accessor subtests",
         "url": "https://github.com/celestiaorg/celestia-node/pull/5075",
@@ -94,6 +130,15 @@
         "author": "neyy91",
         "reviewer": "mcrakhman",
         "requestedAt": "2026-06-21T03:19:31Z"
+      },
+      {
+        "number": 5081,
+        "title": "chore(deps): bump actions/checkout from 6 to 7",
+        "url": "https://github.com/celestiaorg/celestia-node/pull/5081",
+        "repo": "celestia-node",
+        "author": "dependabot",
+        "reviewer": "mcrakhman",
+        "requestedAt": "2026-06-22T11:04:55Z"
       }
     ],
     "vgonkivs": [
@@ -107,13 +152,22 @@
         "requestedAt": "2026-06-17T07:30:19Z"
       },
       {
-        "number": 3131,
-        "title": "test(consensus): deflake TestReactorValidatorSetChanges timeout",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3131",
-        "repo": "celestia-core",
-        "author": "rootulp",
+        "number": 7443,
+        "title": "chore(deps): bump google.golang.org/api from 0.284.0 to 0.285.0",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7443",
+        "repo": "celestia-app",
+        "author": "dependabot",
         "reviewer": "vgonkivs",
-        "requestedAt": "2026-06-19T23:38:30Z"
+        "requestedAt": "2026-06-22T09:32:52Z"
+      },
+      {
+        "number": 7451,
+        "title": "chore(deps): bump github.com/grafana/otel-profiling-go from 0.5.3 to 0.6.0",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7451",
+        "repo": "celestia-app",
+        "author": "dependabot",
+        "reviewer": "vgonkivs",
+        "requestedAt": "2026-06-22T09:36:03Z"
       },
       {
         "number": 5057,
@@ -125,40 +179,13 @@
         "requestedAt": "2026-06-17T04:22:51Z"
       },
       {
-        "number": 5064,
-        "title": "chore(deps): bump golang.org/x/crypto from 0.51.0 to 0.53.0",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/5064",
+        "number": 5083,
+        "title": "chore(deps): bump github.com/grafana/otel-profiling-go from 0.5.1 to 0.6.0",
+        "url": "https://github.com/celestiaorg/celestia-node/pull/5083",
         "repo": "celestia-node",
         "author": "dependabot",
         "reviewer": "vgonkivs",
-        "requestedAt": "2026-06-15T11:07:15Z"
-      },
-      {
-        "number": 5074,
-        "title": "test(shrex_getter): give each peer manager its own header subscriber",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/5074",
-        "repo": "celestia-node",
-        "author": "neyy91",
-        "reviewer": "vgonkivs",
-        "requestedAt": "2026-06-21T03:18:52Z"
-      },
-      {
-        "number": 5079,
-        "title": "fix(blob): guard against nil proof in Service.Included",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/5079",
-        "repo": "celestia-node",
-        "author": "neyy91",
-        "reviewer": "vgonkivs",
-        "requestedAt": "2026-06-21T19:07:00Z"
-      },
-      {
-        "number": 420,
-        "title": "chore(deps): Bump actions/checkout from 6 to 7",
-        "url": "https://github.com/celestiaorg/rsmt2d/pull/420",
-        "repo": "rsmt2d",
-        "author": "dependabot",
-        "reviewer": "vgonkivs",
-        "requestedAt": "2026-06-18T15:52:28Z"
+        "requestedAt": "2026-06-22T11:06:38Z"
       }
     ],
     "evan-forbes": [
@@ -239,5 +266,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-06-22T07:37:24.131Z"
+  "fetchedAt": "2026-06-22T13:14:30.541Z"
 }
