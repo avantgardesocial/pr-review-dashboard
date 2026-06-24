@@ -59,17 +59,7 @@
         "requestedAt": "2026-06-22T11:04:55Z"
       }
     ],
-    "vgonkivs": [
-      {
-        "number": 977,
-        "title": "feat: share one failover engine across RPC and gRPC clients",
-        "url": "https://github.com/celestiaorg/lumina/pull/977",
-        "repo": "lumina",
-        "author": "mcrakhman",
-        "reviewer": "vgonkivs",
-        "requestedAt": "2026-06-23T14:59:46Z"
-      }
-    ],
+    "vgonkivs": [],
     "evan-forbes": [
       {
         "number": 5073,
@@ -130,5 +120,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-06-24T08:41:21.993Z"
+  "fetchedAt": "2026-06-24T11:28:47.523Z"
 }
