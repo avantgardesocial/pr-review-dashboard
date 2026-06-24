@@ -50,6 +50,15 @@
         "requestedAt": "2026-06-22T09:37:21Z"
       },
       {
+        "number": 7467,
+        "title": "fix(encoding): reject empty tx bytes in the tx decoder",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7467",
+        "repo": "celestia-app",
+        "author": "rootulp",
+        "reviewer": "mcrakhman",
+        "requestedAt": "2026-06-24T16:08:57Z"
+      },
+      {
         "number": 5081,
         "title": "chore(deps): bump actions/checkout from 6 to 7",
         "url": "https://github.com/celestiaorg/celestia-node/pull/5081",
@@ -59,7 +68,17 @@
         "requestedAt": "2026-06-22T11:04:55Z"
       }
     ],
-    "vgonkivs": [],
+    "vgonkivs": [
+      {
+        "number": 3145,
+        "title": "test(consensus): backport TestStateOversizedBlock flake fixes to v0.40.x",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3145",
+        "repo": "celestia-core",
+        "author": "rootulp",
+        "reviewer": "vgonkivs",
+        "requestedAt": "2026-06-24T17:37:00Z"
+      }
+    ],
     "evan-forbes": [
       {
         "number": 5073,
@@ -120,5 +139,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-06-24T15:56:34.633Z"
+  "fetchedAt": "2026-06-24T17:51:19.294Z"
 }
