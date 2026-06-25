@@ -5,6 +5,15 @@
     "rach-id": [],
     "mcrakhman": [
       {
+        "number": 7473,
+        "title": "fix: validate JSON field paths in internal map utils",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7473",
+        "repo": "celestia-app",
+        "author": "pengqima",
+        "reviewer": "mcrakhman",
+        "requestedAt": "2026-06-25T17:18:33Z"
+      },
+      {
         "number": 5086,
         "title": "fix(share): correct off-by-one in 1D-index bounds checks",
         "url": "https://github.com/celestiaorg/celestia-node/pull/5086",
@@ -14,7 +23,17 @@
         "requestedAt": "2026-06-25T10:12:24Z"
       }
     ],
-    "vgonkivs": [],
+    "vgonkivs": [
+      {
+        "number": 7472,
+        "title": "fix: retry chain start on host-port collision in IBC e2e suite",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7472",
+        "repo": "celestia-app",
+        "author": "rootulp",
+        "reviewer": "vgonkivs",
+        "requestedAt": "2026-06-25T16:29:26Z"
+      }
+    ],
     "evan-forbes": [
       {
         "number": 5073,
@@ -75,5 +94,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-06-25T16:04:04.529Z"
+  "fetchedAt": "2026-06-25T18:21:46.783Z"
 }
