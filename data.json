@@ -44,6 +44,15 @@
         "requestedAt": "2026-06-25T16:29:26Z"
       },
       {
+        "number": 7474,
+        "title": "fix(chainbuilder): close leaked CometBFT DBs on TestRun retry",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7474",
+        "repo": "celestia-app",
+        "author": "rootulp",
+        "reviewer": "vgonkivs",
+        "requestedAt": "2026-06-26T16:13:48Z"
+      },
+      {
         "number": 5073,
         "title": "fix(state/txclient): close estimator conn on failure and wait for Ready",
         "url": "https://github.com/celestiaorg/celestia-node/pull/5073",
@@ -103,5 +112,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-06-26T15:54:51.580Z"
+  "fetchedAt": "2026-06-26T17:29:57.496Z"
 }
