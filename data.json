@@ -31,6 +31,15 @@
         "author": "neyy91",
         "reviewer": "mcrakhman",
         "requestedAt": "2026-06-25T10:12:24Z"
+      },
+      {
+        "number": 5087,
+        "title": "fix(state/txclient): honor an explicitly-set zero MaxGasPrice",
+        "url": "https://github.com/celestiaorg/celestia-node/pull/5087",
+        "repo": "celestia-node",
+        "author": "neyy91",
+        "reviewer": "mcrakhman",
+        "requestedAt": "2026-06-26T21:18:03Z"
       }
     ],
     "vgonkivs": [
@@ -112,5 +121,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-06-26T20:59:42.661Z"
+  "fetchedAt": "2026-06-26T22:17:12.891Z"
 }
