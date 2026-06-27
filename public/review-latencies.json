@@ -19,19 +19,19 @@
     },
     "ninabarbakadze": {
       "week": {
-        "n": 13,
+        "n": 15,
         "medianHours": 1.7666666666666666,
-        "p90Hours": 7.2508333333333335
+        "p90Hours": 12.54111111111111
       },
       "month": {
-        "n": 38,
+        "n": 40,
         "medianHours": 6.940833333333333,
         "p90Hours": 57.17722222222222
       },
       "year": {
-        "n": 260,
+        "n": 262,
         "medianHours": 8.296388888888888,
-        "p90Hours": 57.10861111111111
+        "p90Hours": 56.1975
       }
     },
     "rach-id": {
@@ -179,7 +179,7 @@
       "defaultHidden": true
     }
   ],
-  "computedAt": "2026-06-26T03:36:31.749Z",
+  "computedAt": "2026-06-27T02:59:04.132Z",
   "windows": {
     "weekStart": "2026-06-22T00:00:00.000Z",
     "monthStart": "2026-06-01T00:00:00.000Z",
