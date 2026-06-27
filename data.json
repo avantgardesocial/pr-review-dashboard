@@ -1,8 +1,27 @@
 {
   "reviews": {
     "rootulp": [],
-    "ninabarbakadze": [],
+    "ninabarbakadze": [
+      {
+        "number": 7478,
+        "title": "fix(chainbuilder): release node DB locks before retrying TestRun",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7478",
+        "repo": "celestia-app",
+        "author": "rootulp",
+        "reviewer": "ninabarbakadze",
+        "requestedAt": "2026-06-27T16:18:41Z"
+      }
+    ],
     "rach-id": [
+      {
+        "number": 7477,
+        "title": "fix(gasestimation): use gov max bytes when extracting mempool gas prices",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7477",
+        "repo": "celestia-app",
+        "author": "rootulp",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-06-27T16:12:20Z"
+      },
       {
         "number": 3144,
         "title": "feat(memppol/cat): introduce the new SeenTracker data structure",
@@ -121,5 +140,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-06-27T15:53:12.965Z"
+  "fetchedAt": "2026-06-27T16:52:33.343Z"
 }
