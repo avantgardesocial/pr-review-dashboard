@@ -10,6 +10,15 @@
         "author": "rach-id",
         "reviewer": "ninabarbakadze",
         "requestedAt": "2026-06-29T14:38:15Z"
+      },
+      {
+        "number": 329,
+        "title": "chore(deps): bump golangci/golangci-lint-action from 9.2.1 to 9.3.0",
+        "url": "https://github.com/celestiaorg/nmt/pull/329",
+        "repo": "nmt",
+        "author": "dependabot",
+        "reviewer": "ninabarbakadze",
+        "requestedAt": "2026-06-29T21:02:59Z"
       }
     ],
     "rach-id": [],
@@ -58,6 +67,15 @@
         "author": "neyy91",
         "reviewer": "mcrakhman",
         "requestedAt": "2026-06-25T10:12:24Z"
+      },
+      {
+        "number": 270,
+        "title": "chore(deps): bump golangci/golangci-lint-action from 9.2.1 to 9.3.0",
+        "url": "https://github.com/celestiaorg/go-square/pull/270",
+        "repo": "go-square",
+        "author": "dependabot",
+        "reviewer": "mcrakhman",
+        "requestedAt": "2026-06-29T19:32:49Z"
       }
     ],
     "vgonkivs": [
@@ -149,5 +167,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-06-29T19:24:58.911Z"
+  "fetchedAt": "2026-06-29T21:05:27.759Z"
 }
