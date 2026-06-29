@@ -3,13 +3,13 @@
     "rootulp": [],
     "ninabarbakadze": [
       {
-        "number": 7484,
-        "title": "chore(deps): bump github.com/hashicorp/go-metrics from 0.5.4 to 0.6.0",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7484",
+        "number": 7489,
+        "title": "feat(fibre): retain shards for a configurable local duration (default 4h)",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7489",
         "repo": "celestia-app",
-        "author": "dependabot",
+        "author": "rach-id",
         "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-06-29T11:29:01Z"
+        "requestedAt": "2026-06-29T14:38:15Z"
       }
     ],
     "rach-id": [],
@@ -42,13 +42,13 @@
         "requestedAt": "2026-06-29T04:43:45Z"
       },
       {
-        "number": 7485,
-        "title": "chore(deps): bump github.com/digitalocean/godo from 1.196.0 to 1.197.0",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7485",
+        "number": 7489,
+        "title": "feat(fibre): retain shards for a configurable local duration (default 4h)",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7489",
         "repo": "celestia-app",
-        "author": "dependabot",
+        "author": "rach-id",
         "reviewer": "mcrakhman",
-        "requestedAt": "2026-06-29T09:34:38Z"
+        "requestedAt": "2026-06-29T14:38:03Z"
       },
       {
         "number": 5086,
@@ -71,22 +71,13 @@
         "requestedAt": "2026-06-29T04:43:45Z"
       },
       {
-        "number": 7484,
-        "title": "chore(deps): bump github.com/hashicorp/go-metrics from 0.5.4 to 0.6.0",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7484",
+        "number": 7489,
+        "title": "feat(fibre): retain shards for a configurable local duration (default 4h)",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7489",
         "repo": "celestia-app",
-        "author": "dependabot",
+        "author": "rach-id",
         "reviewer": "vgonkivs",
-        "requestedAt": "2026-06-29T09:34:34Z"
-      },
-      {
-        "number": 5088,
-        "title": "chore(deps): bump actions/cache from 5 to 6",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/5088",
-        "repo": "celestia-node",
-        "author": "dependabot",
-        "reviewer": "vgonkivs",
-        "requestedAt": "2026-06-29T11:03:48Z"
+        "requestedAt": "2026-06-29T14:38:15Z"
       }
     ],
     "evan-forbes": [],
@@ -149,5 +140,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-06-29T11:31:47.266Z"
+  "fetchedAt": "2026-06-29T15:00:10.952Z"
 }
