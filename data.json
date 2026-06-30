@@ -33,6 +33,15 @@
         "requestedAt": "2026-06-29T14:38:03Z"
       },
       {
+        "number": 7496,
+        "title": "ci: don't fail-fast the docker-e2e matrix",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7496",
+        "repo": "celestia-app",
+        "author": "rootulp",
+        "reviewer": "mcrakhman",
+        "requestedAt": "2026-06-30T16:19:34Z"
+      },
+      {
         "number": 5086,
         "title": "fix(share): correct off-by-one in 1D-index bounds checks",
         "url": "https://github.com/celestiaorg/celestia-node/pull/5086",
@@ -140,5 +149,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-06-30T16:02:02.306Z"
+  "fetchedAt": "2026-06-30T18:06:47.402Z"
 }
