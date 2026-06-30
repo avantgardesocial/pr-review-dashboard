@@ -10,6 +10,15 @@
         "author": "rach-id",
         "reviewer": "ninabarbakadze",
         "requestedAt": "2026-06-29T14:38:15Z"
+      },
+      {
+        "number": 5092,
+        "title": "fix(api/client): close already-opened clients on partial init failure",
+        "url": "https://github.com/celestiaorg/celestia-node/pull/5092",
+        "repo": "celestia-node",
+        "author": "neyy91",
+        "reviewer": "ninabarbakadze",
+        "requestedAt": "2026-06-30T22:53:09Z"
       }
     ],
     "rach-id": [],
@@ -149,5 +158,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-06-30T21:47:23.697Z"
+  "fetchedAt": "2026-06-30T22:58:47.954Z"
 }
