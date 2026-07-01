@@ -3,6 +3,15 @@
     "rootulp": [],
     "ninabarbakadze": [
       {
+        "number": 7499,
+        "title": "refactor(fibre): rework HostRegistry",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7499",
+        "repo": "celestia-app",
+        "author": "vgonkivs",
+        "reviewer": "ninabarbakadze",
+        "requestedAt": "2026-07-01T18:17:24Z"
+      },
+      {
         "number": 5092,
         "title": "fix(api/client): close already-opened clients on partial init failure",
         "url": "https://github.com/celestiaorg/celestia-node/pull/5092",
@@ -21,6 +30,15 @@
         "author": "vgonkivs",
         "reviewer": "rach-id",
         "requestedAt": "2026-07-01T09:15:40Z"
+      },
+      {
+        "number": 7499,
+        "title": "refactor(fibre): rework HostRegistry",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7499",
+        "repo": "celestia-app",
+        "author": "vgonkivs",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-07-01T18:17:36Z"
       }
     ],
     "mcrakhman": [
@@ -52,15 +70,6 @@
         "author": "rach-id",
         "reviewer": "vgonkivs",
         "requestedAt": "2026-06-29T14:38:15Z"
-      },
-      {
-        "number": 7498,
-        "title": "test: skip TestE2EFullStackPFB until celestia-node supports app v10",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7498",
-        "repo": "celestia-app",
-        "author": "rootulp",
-        "reviewer": "vgonkivs",
-        "requestedAt": "2026-07-01T16:13:07Z"
       }
     ],
     "evan-forbes": [],
@@ -123,5 +132,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-07-01T16:15:59.362Z"
+  "fetchedAt": "2026-07-01T18:17:43.635Z"
 }
