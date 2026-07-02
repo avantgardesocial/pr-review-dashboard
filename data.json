@@ -77,6 +77,15 @@
         "author": "vgonkivs",
         "reviewer": "mcrakhman",
         "requestedAt": "2026-07-01T09:37:33Z"
+      },
+      {
+        "number": 7501,
+        "title": "feat(fibre): add timeout for fibre requests",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7501",
+        "repo": "celestia-app",
+        "author": "vgonkivs",
+        "reviewer": "mcrakhman",
+        "requestedAt": "2026-07-02T10:26:12Z"
       }
     ],
     "vgonkivs": [
@@ -168,5 +177,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-07-02T10:21:53.229Z"
+  "fetchedAt": "2026-07-02T12:23:34.170Z"
 }
