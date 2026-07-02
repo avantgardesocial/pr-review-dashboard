@@ -48,15 +48,6 @@
         "author": "vgonkivs",
         "reviewer": "rach-id",
         "requestedAt": "2026-07-01T09:15:40Z"
-      },
-      {
-        "number": 7499,
-        "title": "refactor(fibre): rework HostRegistry",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7499",
-        "repo": "celestia-app",
-        "author": "vgonkivs",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-07-01T18:17:36Z"
       }
     ],
     "mcrakhman": [
@@ -177,5 +168,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-07-02T07:45:18.107Z"
+  "fetchedAt": "2026-07-02T10:21:53.229Z"
 }
