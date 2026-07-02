@@ -11,19 +11,19 @@
       "year": 412
     },
     "rach-id": {
-      "week": 0,
-      "month": 0,
-      "year": 557
+      "week": 1,
+      "month": 1,
+      "year": 558
     },
     "mcrakhman": {
-      "week": 0,
-      "month": 0,
-      "year": 104
+      "week": 2,
+      "month": 2,
+      "year": 106
     },
     "vgonkivs": {
-      "week": 0,
-      "month": 0,
-      "year": 114
+      "week": 2,
+      "month": 2,
+      "year": 116
     },
     "evan-forbes": {
       "week": 0,
@@ -36,12 +36,12 @@
       "year": 116
     },
     "Wondertan": {
-      "week": 0,
-      "month": 0,
-      "year": 79
+      "week": 1,
+      "month": 1,
+      "year": 80
     }
   },
-  "computedAt": "2026-07-01T03:43:06.728Z",
+  "computedAt": "2026-07-02T03:29:04.667Z",
   "windows": {
     "weekStart": "2026-06-29T00:00:00.000Z",
     "monthStart": "2026-07-01T00:00:00.000Z",
